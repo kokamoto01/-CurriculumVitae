@@ -8,10 +8,14 @@
 | GitHub | [kokamoto01](https://github.com/kokamoto01) |
 | Qiita | [kokamoto01 - Qiita](https://qiita.com/kokamoto01) |
 | Wantedly | [URL](https://www.wantedly.com/id/kokamoto01) |
-| LinkedIn | [URL](https://www.linkedin.com/in/kentaro-okamoto-a0bb87223/)
+| LinkedIn | [URL](https://www.linkedin.com/in/kentaro-okamoto-a0bb87223/)    
 
 ## 職務要約
-(後ほど記述)
+株式会社アウトソーシングテクノロジーに新卒入社し、ソリューションサービス事業本部に配属されました。  
+大手不動産会社、大手人材会社、大手事務用品通販会社、ヘルスケアサービス会社に対してAWSを用いたインフラの構築・保守を行った実績があります。  
+その中でもAWSでコード（コーディング）を用いたサービス作成をすることが得意です。その実力を現職で認められ、現在担当している業務では技術担当のリーダーとしてインフラの設計を一任されています。  
+また、所属部署内で作業の進捗報告がうまくできる仕組みがないことに課題を感じ、新たにプロジェクト管理ツールの導入を提案し正式採用まで持っていきました。  
+他にはチームの作業工数を削減するため、現在稼働しているサービスにコードレビュー後の変更内容を自動で適用する仕組みを作成する等の試みも行っています。
 
 ## 強み
 (後ほど記述)
