@@ -5,58 +5,13 @@
 |:--|:--|
 | Name | 岡本 健太郎 (kokamoto) |
 | Job | Infrastructure (Cloud) Engeneer |
-| Current Office | 株式会社アウトソーシングテクノロジー |
 | GitHub | [kokamoto01](https://github.com/kokamoto01) |
 | Qiita | [kokamoto01 - Qiita](https://qiita.com/kokamoto01) |
 | Wantedly | [URL](https://www.wantedly.com/id/kokamoto01) |
+| LinkedIn | [URL](https://www.linkedin.com/in/kentaro-okamoto-a0bb87223/)
 
-## スキル
-- AWS
-  - Organizations
-  - IAM
-  - CloudTrail
-  - VPC
-  - EC2
-  - ELB
-  - Lambda
-  - S3 (Athena)
-  - Route53
-  - CloudWatch
-  - Amazon SNS
-  - AWS Codeシリーズ
-- サーバ  
-  - Amazon Linux 2
-  - CentOS7
-  - Ubuntu18
-  - Kali Linux 2020
-- SQL
-  - MySQL
-  - PostgreSQL
-- 仮想化技術
-  - VirtualBox
-  - Docker
-  - WSL2
-- ネットワーク  
-  - Cisco Catalyst 2960
-  - Cisco ISR 4000
-  - Cisco Catalyst 9100
-- プログラミング  
-  - Python
-  - JavaScript
-  - Java(触ったことあるレベル)
-- タスク管理
-  - Git (GitHub, CodeCommit)
-  - Redmine
-  - Jira Confluence
-- チャットツール
-  - Teams
-  - Slack
-
-## 言語
-- 日本語
-  - ネイティブ
-- 英語
-  - 文書が書けるレベル
+## 職務要約
+(後ほど記述)
 
 ## 強み
 (後ほど記述)
