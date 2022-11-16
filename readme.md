@@ -1,4 +1,11 @@
-# 職務経歴書
+<div style="text-align: center;">
+  <font size=6>職務経歴書</font>
+</div>
+<div style="text-align: right;">
+  2022年11月16日 現在
+<br>  
+岡本 健太郎
+</div>
 
 # 自己紹介
 | key | value |
@@ -7,7 +14,6 @@
 | Job | Infrastructure (Cloud) Engeneer |
 | GitHub | [kokamoto01](https://github.com/kokamoto01) |
 | Qiita | [kokamoto01 - Qiita](https://qiita.com/kokamoto01) |
-| Wantedly | [kokamoto01](https://www.wantedly.com/id/kokamoto01) |
 | LinkedIn | [kentaro-okamoto-a0bb87223](https://www.linkedin.com/in/kentaro-okamoto-a0bb87223/)  
 
 # 職務要約
